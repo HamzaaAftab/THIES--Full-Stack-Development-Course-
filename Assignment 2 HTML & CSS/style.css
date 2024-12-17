@@ -207,6 +207,8 @@ nav ul li a:hover {
     filter: saturate(100%);
     margin-bottom: 1rem;
   }
+
+  
 .footer{
     display: flex;
     align-items: center;
